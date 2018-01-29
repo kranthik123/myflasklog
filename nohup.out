@@ -1,0 +1,6 @@
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [29/Jan/2018 04:47:17] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jan/2018 04:47:35] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jan/2018 04:47:36] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jan/2018 04:47:38] "GET / HTTP/1.1" 200 -
